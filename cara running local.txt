@@ -1,0 +1,13 @@
+cara install requirements 
+pip install -r requirements.txt
+
+
+
+
+=========
+Cara running local 
+py app.py
+
+
+Cara running local untuk keperluan MD
+flask run --host=IP_Address_komputer
